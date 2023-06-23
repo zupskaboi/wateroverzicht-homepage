@@ -1,0 +1,21 @@
+nav {
+    display: flex;
+    background-color: #21519F;
+    text-align: center;
+    padding-bottom: 2px;
+}
+
+nav li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li a {
+    text-decoration: none;
+    color: white;
+}
+
+.hamburger-img {
+    margin-top: 8px;
+}
